@@ -1,0 +1,38 @@
+export const decisions = [
+  {
+    id: 1,
+    title: "Launch Product",
+    confidence: 92,
+    risk: "Low",
+    cost: "Medium",
+    x: 80,
+    y: 80,
+  },
+  {
+    id: 2,
+    title: "Hire Team",
+    confidence: 84,
+    risk: "Medium",
+    cost: "High",
+    x: 420,
+    y: 220,
+  },
+  {
+    id: 3,
+    title: "Raise Funding",
+    confidence: 76,
+    risk: "High",
+    cost: "High",
+    x: 760,
+    y: 80,
+  },
+  {
+    id: 4,
+    title: "Marketing Strategy",
+    confidence: 88,
+    risk: "Low",
+    cost: "Medium",
+    x: 450,
+    y: 470,
+  },
+];
